@@ -1,6 +1,6 @@
 # Hi, I'm Samik Hafeez
 
-**AI Engineer · BSc (Hons) Applied Artificial Intelligence, University of Bradford (2026, expected First Class)**
+**AI Engineer · BSc (Hons) Applied Artificial Intelligence, University of Bradford (2026, achieved First Class)**
 
 I build LLM-powered systems end to end — from RAG pipelines and AI agents through to the APIs, containers and cloud infrastructure they run on. My final-year client project was a citizen support AI agent delivered to **Bradford Council**: requirements to deployed service on AWS EC2, with FAISS-backed RAG, service routing, guarded fallbacks and an LLM evaluation approach.
 
